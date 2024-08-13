@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "坐标变换（其二）（AC代码）", "坐标变换（其二）（AC代码）\坐标变换（其二）（AC代码）.vcxproj", "{37DCE30C-5F3B-437F-AFDE-425010EB67A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Debug|x64.ActiveCfg = Debug|x64
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Debug|x64.Build.0 = Debug|x64
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Debug|x86.Build.0 = Debug|Win32
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Release|x64.ActiveCfg = Release|x64
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Release|x64.Build.0 = Release|x64
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Release|x86.ActiveCfg = Release|Win32
+		{37DCE30C-5F3B-437F-AFDE-425010EB67A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD2AFB6-E1C3-4CE5-BC6A-02CC8425D366}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\CCF csp认证算法代码仓库\集合竞价\集合竞价\源.cpp(68,9): warning C4477: “printf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“LL”
+D:\CCF csp认证算法代码仓库\集合竞价\集合竞价\源.cpp(68,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“double”
+  集合竞价.vcxproj -> D:\CCF csp认证算法代码仓库\集合竞价\x64\Debug\集合竞价.exe

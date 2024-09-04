@@ -1,0 +1,6 @@
+﻿  源.cpp
+F:\Gitee代码提交仓库\ccf-csp\CSP第26次认证考试\寻宝！大冒险！\寻宝！大冒险！\源.cpp(4,9): warning C4068: 未知的杂注“GCC”
+F:\Gitee代码提交仓库\ccf-csp\CSP第26次认证考试\寻宝！大冒险！\寻宝！大冒险！\源.cpp(5,9): warning C4068: 未知的杂注“GCC”
+F:\Gitee代码提交仓库\ccf-csp\CSP第26次认证考试\寻宝！大冒险！\寻宝！大冒险！\源.cpp(6,9): warning C4068: 未知的杂注“GCC”
+F:\Gitee代码提交仓库\ccf-csp\CSP第26次认证考试\寻宝！大冒险！\寻宝！大冒险！\源.cpp(17,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  寻宝！大冒险！.vcxproj -> F:\Gitee代码提交仓库\ccf-csp\CSP第26次认证考试\寻宝！大冒险！\x64\Debug\寻宝！大冒险！.exe

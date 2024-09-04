@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CCF CSP\u8BA4\u8BC1\u7B97\u6CD5\u4EE3\u7801\u4ED3\u5E93\\CSP\u7B2C31\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCE30C-5F3B-437F-AFDE-425010EB67A4}|\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09.vcxproj|F:\\CCF CSP\u8BA4\u8BC1\u7B97\u6CD5\u4EE3\u7801\u4ED3\u5E93\\CSP\u7B2C31\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37DCE30C-5F3B-437F-AFDE-425010EB67A4}|\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09.vcxproj|solutionrelative:\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\CCF CSP\u8BA4\u8BC1\u7B97\u6CD5\u4EE3\u7801\u4ED3\u5E93\\CSP\u7B2C31\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp",
+              "ToolTip": "F:\\CCF CSP\u8BA4\u8BC1\u7B97\u6CD5\u4EE3\u7801\u4ED3\u5E93\\CSP\u7B2C31\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp",
+              "RelativeToolTip": "\u5750\u6807\u53D8\u6362\uFF08\u5176\u4E8C\uFF09\uFF08AC\u4EE3\u7801\uFF09\\\u6E90.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T07:55:34.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

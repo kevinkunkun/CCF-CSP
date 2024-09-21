@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Gitee\u4EE3\u7801\u63D0\u4EA4\u4ED3\u5E93\\ccf-csp\\CSP\u7B2C34\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26AC190-7459-4ADF-85D7-B89298E77038}|\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09.vcxproj|F:\\Gitee\u4EE3\u7801\u63D0\u4EA4\u4ED3\u5E93\\ccf-csp\\CSP\u7B2C34\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26AC190-7459-4ADF-85D7-B89298E77038}|\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09.vcxproj|solutionrelative:\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\Gitee\u4EE3\u7801\u63D0\u4EA4\u4ED3\u5E93\\ccf-csp\\CSP\u7B2C34\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp",
+              "ToolTip": "F:\\Gitee\u4EE3\u7801\u63D0\u4EA4\u4ED3\u5E93\\ccf-csp\\CSP\u7B2C34\u6B21\u8BA4\u8BC1\u8003\u8BD5\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp",
+              "RelativeToolTip": "\u77E9\u9635\u91CD\u5851\uFF08\u5176\u4E8C\uFF09\\\u6E90.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T04:48:05.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
